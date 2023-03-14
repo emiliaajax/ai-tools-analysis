@@ -61,12 +61,4 @@ title('Standard deviation values')
 
 variances = [var_X, var_Y];
 figure;
-bar(variances);
-set(gca, 'XTickLabel', {'X', 'Y'});
-title('Variance values');
-
-ranges = [range_X, range_Y];
-figure;
-bar(ranges);
-set(gca, 'XTickLabel', {'X', 'Y'});
-title('Range values');
+bar(variances)
