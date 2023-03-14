@@ -34,3 +34,16 @@ figure;
 bar([1,2], [means; medians]);
 set(gca, 'XTickLabel', {'X', 'Y'});
 legend('Mean', 'Median');
+
+means = [mean(X), mean(Y)];
+figure;
+bar(means);
+set(gca, 'XTickLabel', {'X', 'Y'});
+title('Mean values');
+
+medians = [median(X), median(Y)];
+figure;
+bar(medians);
+set(gca, 'XTickLabel', {'X', 'Y'});
+title('Median values');
+
