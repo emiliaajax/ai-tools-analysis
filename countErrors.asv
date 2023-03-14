@@ -1,0 +1,27 @@
+% Parse the XML string
+checkstyleData = xmlread('test-checkstyle.xml');
+
+% Get all the "file" elements
+fileNodes = checkstyleData.getElementsByTagName('file');
+
+% Loop through each file node
+for i = 0:fileNodes.getLength()-1
+    % Get the current file node
+    fileNode = fileNodes.item(i);
+
+    % Get the value of the "name" attribute
+    nameAttr = fileNode.getAttribute('name');
+
+    % Convert nameAttr to a string and split it at the "\" character
+    nameParts = split(string(char(nameAttr)), "\");
+    AIModel = nameParts(end-3);
+    algorithm = extractBefore(nameParts(end), ".");
+
+    
+    % Check if folderName is either "Copilot" or "ChatGPT"
+    if ismember(AIModel, ["Copilot", "ChatGPT"])
+        % Display the folder name and file name
+        fprintf('Folder Name: %s\n', AIModel);
+        fprintf('File Name: %s\n', fileName);
+    end
+end
