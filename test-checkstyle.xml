@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.38">
-<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\App.java">
-</file>
-<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\BookExamples\BinarySearch.java">
-</file>
-<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\BookExamples\BreadthFirstSearch.java">
-<error line="21" column="3" severity="warning" message="Method length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
-</file>
-<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\BookExamples\Knapsack.java">
-<error line="4" column="14" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
-<error line="19" column="14" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
-</file>
-<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\BookExamples\MergeSort.java">
-<error line="4" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
-</file>
-<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\BookExamples\QuickSort.java">
-</file>
 <file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T1\BinarySearch.java">
 </file>
 <file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T2\BinarySearch.java">

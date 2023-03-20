@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites>
+  <testsuite name="ChatGPT.BinarySearch.T1.BinarySearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.002">
+    <properties/>
+    <testcase name="shouldReturnFalseForInputNumberNotFound()" classname="ChatGPT.BinarySearch.T1.BinarySearchTest" time="0.001"/>
+    <testcase name="shouldReturnTrueForInputNumberFound()" classname="ChatGPT.BinarySearch.T1.BinarySearchTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BinarySearch.T2.BinarySearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnFalseForInputNumberNotFound()" classname="ChatGPT.BinarySearch.T2.BinarySearchTest" time="0.001"/>
+    <testcase name="shouldReturnTrueForInputNumberFound()" classname="ChatGPT.BinarySearch.T2.BinarySearchTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BinarySearch.T3.BinarySearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnFalseForInputNumberNotFound()" classname="ChatGPT.BinarySearch.T3.BinarySearchTest" time="0.0"/>
+    <testcase name="shouldReturnTrueForInputNumberFound()" classname="ChatGPT.BinarySearch.T3.BinarySearchTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BinarySearch.T4.BinarySearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnFalseForInputNumberNotFound()" classname="ChatGPT.BinarySearch.T4.BinarySearchTest" time="0.001"/>
+    <testcase name="shouldReturnTrueForInputNumberFound()" classname="ChatGPT.BinarySearch.T4.BinarySearchTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BinarySearch.T5.BinarySearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldReturnFalseForInputNumberNotFound()" classname="ChatGPT.BinarySearch.T5.BinarySearchTest" time="0.0"/>
+    <testcase name="shouldReturnTrueForInputNumberFound()" classname="ChatGPT.BinarySearch.T5.BinarySearchTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BreadthFirstSearch.T1.BreadthFirstSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnCorrectParentArray()" classname="ChatGPT.BreadthFirstSearch.T1.BreadthFirstSearchTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BreadthFirstSearch.T2.BreadthFirstSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnCorrectParentArray()" classname="ChatGPT.BreadthFirstSearch.T2.BreadthFirstSearchTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BreadthFirstSearch.T3.BreadthFirstSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnCorrectParentArray()" classname="ChatGPT.BreadthFirstSearch.T3.BreadthFirstSearchTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BreadthFirstSearch.T4.BreadthFirstSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnCorrectParentArray()" classname="ChatGPT.BreadthFirstSearch.T4.BreadthFirstSearchTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BreadthFirstSearch.T5.BreadthFirstSearchTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.018">
+    <properties/>
+    <testcase name="shouldReturnCorrectParentArray()" classname="ChatGPT.BreadthFirstSearch.T5.BreadthFirstSearchTest" time="0.018">
+      <failure message="org.opentest4j.AssertionFailedError: array contents differ at index [0], expected: &lt;0> but was: &lt;-1>" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: array contents differ at index [0], expected: &lt;0&gt; but was: &lt;-1&gt;&#xD;
+	at app//org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)&#xD;
+	at app//org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)&#xD;
+	at app//org.junit.jupiter.api.AssertArrayEquals.failArraysNotEqual(AssertArrayEquals.java:440)&#xD;
+	at app//org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:241)&#xD;
+	at app//org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:87)&#xD;
+	at app//org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:83)&#xD;
+	at app//org.junit.jupiter.api.Assertions.assertArrayEquals(Assertions.java:1278)&#xD;
+	at app//ChatGPT.BreadthFirstSearch.T5.BreadthFirstSearchTest.shouldReturnCorrectParentArray(BreadthFirstSearchTest.java:22)&#xD;
+	at java.base@11.0.10/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xD;
+	at java.base@11.0.10/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#xD;
+	at java.base@11.0.10/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xD;
+	at java.base@11.0.10/java.lang.reflect.Method.invoke(Method.java:566)&#xD;
+	at app//org.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:727)&#xD;
+	at app//org.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)&#xD;
+	at app//org.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)&#xD;
+	at app//org.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:156)&#xD;
+	at app//org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:147)&#xD;
+	at app//org.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:86)&#xD;
+	at app//org.junit.jupiter.engine.execution.InterceptingExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(InterceptingExecutableInvoker.java:103)&#xD;
+	at app//org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.lambda$invoke$0(InterceptingExecutableInvoker.java:93)&#xD;
+	at app//org.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)&#xD;
+	at app//org.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)&#xD;
+	at app//org.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)&#xD;
+	at app//org.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)&#xD;
+	at app//org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:92)&#xD;
+	at app//org.junit.jupiter.engine.execution.InterceptingExecutableInvoker.invoke(InterceptingExecutableInvoker.java:86)&#xD;
+	at app//org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:217)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:213)&#xD;
+	at app//org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:138)&#xD;
+	at app//org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:68)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)&#xD;
+	at java.base@11.0.10/java.util.ArrayList.forEach(ArrayList.java:1541)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)&#xD;
+	at java.base@11.0.10/java.util.ArrayList.forEach(ArrayList.java:1541)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)&#xD;
+	at app//org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)&#xD;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)&#xD;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)&#xD;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)&#xD;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)&#xD;
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)&#xD;
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)&#xD;
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)&#xD;
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)&#xD;
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)&#xD;
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.processAllTestClasses(JUnitPlatformTestClassProcessor.java:99)&#xD;
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor$CollectAllTestClassesExecutor.access$000(JUnitPlatformTestClassProcessor.java:79)&#xD;
+	at org.gradle.api.internal.tasks.testing.junitplatform.JUnitPlatformTestClassProcessor.stop(JUnitPlatformTestClassProcessor.java:75)&#xD;
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:62)&#xD;
+	at java.base@11.0.10/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xD;
+	at java.base@11.0.10/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#xD;
+	at java.base@11.0.10/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xD;
+	at java.base@11.0.10/java.lang.reflect.Method.invoke(Method.java:566)&#xD;
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)&#xD;
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)&#xD;
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)&#xD;
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)&#xD;
+	at com.sun.proxy.$Proxy2.stop(Unknown Source)&#xD;
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker$3.run(TestWorker.java:193)&#xD;
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.executeAndMaintainThreadName(TestWorker.java:129)&#xD;
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:100)&#xD;
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.execute(TestWorker.java:60)&#xD;
+	at org.gradle.process.internal.worker.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:56)&#xD;
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:113)&#xD;
+	at org.gradle.process.internal.worker.child.SystemApplicationClassLoaderWorker.call(SystemApplicationClassLoaderWorker.java:65)&#xD;
+	at app//worker.org.gradle.process.internal.worker.GradleWorkerMain.run(GradleWorkerMain.java:69)&#xD;
+	at app//worker.org.gradle.process.internal.worker.GradleWorkerMain.main(GradleWorkerMain.java:74)&#xD;
+</failure>
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.BreadthFirstSearch.T6.BreadthFirstSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldReturnCorrectParentArray()" classname="ChatGPT.BreadthFirstSearch.T6.BreadthFirstSearchTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.Knapsack.T1.KnapsackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="testKnapsack()" classname="ChatGPT.Knapsack.T1.KnapsackTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.Knapsack.T2.KnapsackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="testKnapsack()" classname="ChatGPT.Knapsack.T2.KnapsackTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.Knapsack.T3.KnapsackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="testKnapsack()" classname="ChatGPT.Knapsack.T3.KnapsackTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.Knapsack.T4.KnapsackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="testKnapsack()" classname="ChatGPT.Knapsack.T4.KnapsackTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.Knapsack.T5.KnapsackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="testKnapsack()" classname="ChatGPT.Knapsack.T5.KnapsackTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.MergeSort.T1.MergeSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.MergeSort.T1.MergeSortTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.MergeSort.T2.MergeSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.MergeSort.T2.MergeSortTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.MergeSort.T3.MergeSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.MergeSort.T3.MergeSortTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.MergeSort.T4.MergeSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.MergeSort.T4.MergeSortTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.MergeSort.T5.MergeSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.MergeSort.T5.MergeSortTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.QuickSort.T1.QuickSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:41" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.QuickSort.T1.QuickSortTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.QuickSort.T2.QuickSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:42" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.QuickSort.T2.QuickSortTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.QuickSort.T3.QuickSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:42" hostname="DESKTOP-RNKL0NM" time="0.001">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.QuickSort.T3.QuickSortTest" time="0.001"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.QuickSort.T4.QuickSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:42" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.QuickSort.T4.QuickSortTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite name="ChatGPT.QuickSort.T5.QuickSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T13:07:42" hostname="DESKTOP-RNKL0NM" time="0.0">
+    <properties/>
+    <testcase name="shouldSortArray()" classname="ChatGPT.QuickSort.T5.QuickSortTest" time="0.0"/>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
