@@ -1,5 +1,5 @@
 % Specify the file path
-file_path = 'AlgorithmsLineCount.json';
+file_path = 'AlgorithmsLineCount2.json';
 
 % Read the file
 file_contents = fileread(file_path);
@@ -26,33 +26,33 @@ for i = 1:numel(fields)
     subkeys = fieldnames(json_data.(fields{i}));
     for j = 1:numel(subkeys)
         data = json_data.(fields{i}).(subkeys{j});
-        algorithm_average = mean(data);
+        algorithm_sum = sum(data);
         
         if strcmp(fields{i}, 'chatGPT')
             switch subkeys{j}
                 case 'BinarySearch'
-                    gpt_binary_search_sum = algorithm_average;
+                    gpt_binary_search_sum = algorithm_sum;
                 case 'BreadthFirstSearch'
-                    gpt_bfs_sum = algorithm_average;
+                    gpt_bfs_sum = algorithm_sum;
                 case 'Knapsack'
-                    gpt_knapsack_sum = algorithm_average;
+                    gpt_knapsack_sum = algorithm_sum;
                 case 'MergeSort'
-                    gpt_merge_sort_sum = algorithm_average;
+                    gpt_merge_sort_sum = algorithm_sum;
                 case 'QuickSort'
-                    gpt_quick_sort_sum = algorithm_average;
+                    gpt_quick_sort_sum = algorithm_sum;
             end
         elseif strcmp(fields{i}, 'copilot')
             switch subkeys{j}
                 case 'BinarySearch'
-                    copilot_binary_search_sum = algorithm_average;
+                    copilot_binary_search_sum = algorithm_sum;
                 case 'BreadthFirstSearch'
-                    copilot_bfs_sum = algorithm_average;
+                    copilot_bfs_sum = algorithm_sum;
                 case 'Knapsack'
-                    copilot_knapsack_sum = algorithm_average;
+                    copilot_knapsack_sum = algorithm_sum;
                 case 'MergeSort'
-                    copilot_merge_sort_sum = algorithm_average;
+                    copilot_merge_sort_sum = algorithm_sum;
                 case 'QuickSort'
-                    copilot_quick_sort_sum = algorithm_average;
+                    copilot_quick_sort_sum = algorithm_sum;
             end
         end
     end
@@ -68,4 +68,4 @@ bar(data);
 set(gca, 'XTickLabel', xlabels);
 legend('BinarySearch', 'BreadthFirstSearch', 'Knapsack', 'MergeSort', 'QuickSort');
 title('Algorithm Line Count by AI Model');
-ylabel('Average Line Count');
+ylabel('Line Count');

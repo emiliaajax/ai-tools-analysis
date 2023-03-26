@@ -1,5 +1,7 @@
 % Parse the XML string
-checkstyleData = xmlread('test-checkstyle.xml');
+% checkstyleData = xmlread('test-checkstyle.xml');
+checkstyleData = xmlread('checkstyle-combined-fixed.xml');
+
 
 % Get all the "file" elements
 fileNodes = checkstyleData.getElementsByTagName('file');

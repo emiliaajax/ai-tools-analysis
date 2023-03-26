@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.9.2">
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T1\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T10\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T11\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T12\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T13\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T14\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T15\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T16\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T17\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T18\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T19\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T2\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T20\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T21\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T22\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T23\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T24\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T25\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T26\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T27\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T28\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T29\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T3\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T30\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T31\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T32\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T33\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T34\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T35\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T36\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T37\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T38\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T39\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T4\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T40\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T41\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T42\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T43\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T44\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T45\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T46\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T47\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T48\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T49\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T5\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T50\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T6\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T7\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T8\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinarySearch\T9\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T1\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T10\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T11\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T12\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T13\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T14\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T15\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T16\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T17\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T18\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T19\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T2\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T20\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T21\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T22\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T23\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T24\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T25\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T26\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T27\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T28\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T29\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T3\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T30\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T31\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T32\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T33\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T34\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T35\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T36\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T37\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T38\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T39\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T4\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T40\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T41\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T42\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T43\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T44\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T45\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T46\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T47\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T48\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T49\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T5\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T50\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T6\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T7\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T8\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BinaryToDecimal\T9\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T1\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T10\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T11\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T12\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T13\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T14\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T15\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T16\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T17\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T18\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T19\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T2\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T20\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T21\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T22\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T23\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T24\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T25\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T26\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T27\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T28\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T29\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T3\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T30\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T31\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T32\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T33\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T34\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T35\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T36\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T37\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T38\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T39\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T4\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T40\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T41\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T42\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T43\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T44\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T45\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T46\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T47\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T48\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T49\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T5\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T50\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T6\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T7\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T8\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\BreadthFirstSearch\T9\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T1\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T10\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T11\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T12\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T13\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T14\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T15\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T16\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T17\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T18\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T19\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T2\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T20\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T21\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T22\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T23\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T24\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T25\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T26\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T27\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T28\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T29\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T3\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T30\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T31\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T32\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T33\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T34\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T35\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T36\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T37\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T38\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T39\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T4\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T40\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T41\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T42\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T43\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T44\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T45\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T46\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T47\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T48\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T49\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T5\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T50\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T6\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T7\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T8\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\Knapsack\T9\Knapsack.java">
+<error line="5" column="3" severity="warning" message="Method bottomUp length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T1\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T10\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T11\MergeSort.java">
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T12\MergeSort.java">
+<error line="14" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="24" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T13\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T14\MergeSort.java">
+<error line="22" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T15\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T16\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T17\MergeSort.java">
+<error line="22" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T18\MergeSort.java">
+<error line="21" column="3" severity="warning" message="NCSS for this method is 28 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="21" column="3" severity="warning" message="Method merge length is 35 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T19\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T2\MergeSort.java">
+<error line="22" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T20\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T21\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T22\MergeSort.java">
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T23\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T24\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T25\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T26\MergeSort.java">
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T27\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T28\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T29\MergeSort.java">
+<error line="21" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T3\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T30\MergeSort.java">
+<error line="14" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T31\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T32\MergeSort.java">
+<error line="12" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T33\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T34\MergeSort.java">
+<error line="23" column="3" severity="warning" message="Method merge length is 24 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T35\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T36\MergeSort.java">
+<error line="21" column="3" severity="warning" message="Method merge length is 24 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T37\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T38\MergeSort.java">
+<error line="12" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="21" column="3" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T39\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T4\MergeSort.java">
+<error line="13" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T40\MergeSort.java">
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T41\MergeSort.java">
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T42\MergeSort.java">
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T43\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="NCSS for this method is 22 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 28 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T44\MergeSort.java">
+<error line="23" column="3" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T45\MergeSort.java">
+<error line="14" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="27" column="3" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="27" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T46\MergeSort.java">
+<error line="22" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T47\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T48\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T49\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T5\MergeSort.java">
+<error line="12" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="21" column="5" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T50\MergeSort.java">
+<error line="22" column="3" severity="warning" message="NCSS for this method is 23 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="22" column="3" severity="warning" message="Method merge length is 29 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T6\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T7\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T8\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="3" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\MergeSort\T9\MergeSort.java">
+<error line="13" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="23" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T1\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T10\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T11\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T12\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T13\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T14\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T15\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T16\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T17\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T18\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T19\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T2\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T20\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T21\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T22\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T23\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T24\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T25\QuickSort.java">
+<error line="22" column="15" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T26\QuickSort.java">
+<error line="12" column="3" severity="warning" message="Method quickSort length is 24 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T27\QuickSort.java">
+<error line="12" column="3" severity="warning" message="Method quicksort length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T28\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T29\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T3\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T30\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T31\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T32\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T33\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T34\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T35\QuickSort.java">
+<error line="11" column="3" severity="warning" message="Method quickSort length is 26 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T36\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T37\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T38\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T39\QuickSort.java">
+<error line="12" column="3" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="12" column="3" severity="warning" message="Method quickSort length is 29 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T4\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T40\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T41\QuickSort.java">
+<error line="12" column="3" severity="warning" message="Method quicksort length is 24 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T42\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T43\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T44\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T45\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T46\QuickSort.java">
+<error line="11" column="3" severity="warning" message="Method quicksort length is 26 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T47\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T48\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T49\QuickSort.java">
+<error line="24" column="15" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T5\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T50\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T6\QuickSort.java">
+<error line="22" column="15" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T7\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T8\QuickSort.java">
+<error line="22" column="15" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\ChatGPT\QuickSort\T9\QuickSort.java">
+<error line="22" column="15" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T1\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T12\BinarySearch.java">
+<error line="5" column="30" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="33" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="36" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="39" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="42" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="45" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="48" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="51" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="41" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="7" column="41" severity="warning" message="&apos;11&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T13\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T14\BinarySearch.java">
+<error line="5" column="24" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="27" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="30" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="33" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="36" severity="warning" message="&apos;11&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="40" severity="warning" message="&apos;13&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="19" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T15\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T16\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T17\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T18\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T19\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T2\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T20\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T21\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T23\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T24\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T25\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T26\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T27\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T28\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T30\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T31\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T32\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T33\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T38\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T4\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T41\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T42\BinarySearch.java">
+<error line="5" column="37" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="40" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="43" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="46" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="49" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="52" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="55" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="58" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="26" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T43\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T44\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T45\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T50\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T7\BinarySearch.java">
+<error line="6" column="30" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="33" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="39" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="42" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="45" severity="warning" message="&apos;11&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="49" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="53" severity="warning" message="&apos;15&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="57" severity="warning" message="&apos;17&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="61" severity="warning" message="&apos;18&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="65" severity="warning" message="&apos;19&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="69" severity="warning" message="&apos;20&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="73" severity="warning" message="&apos;21&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="77" severity="warning" message="&apos;22&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="81" severity="warning" message="&apos;23&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="85" severity="warning" message="&apos;24&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="89" severity="warning" message="&apos;25&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="93" severity="warning" message="&apos;26&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="6" column="97" severity="warning" message="&apos;27&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="10" column="46" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinarySearch\T9\BinarySearch.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T1\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T10\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T11\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T12\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T13\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T15\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T16\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T17\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T18\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T19\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T2\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T20\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T23\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T24\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T28\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T29\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T3\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T30\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T31\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T32\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T33\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T34\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T35\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T36\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T37\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T39\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T4\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T40\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T41\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T42\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T43\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T44\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T45\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T47\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T48\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T49\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T5\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T50\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T7\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T8\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BinaryToDecimal\T9\BinaryToDecimal.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T1\Graph.java">
+<error line="23" column="3" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T10\Graph.java">
+<error line="19" column="5" severity="warning" message="Method bfs length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T11\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T12\Graph.java">
+<error line="49" column="33" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="26" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="26" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="57" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="57" column="26" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="58" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="58" column="26" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T13\Graph.java">
+<error line="30" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T14\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T15\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T16\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="45" column="33" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="48" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T17\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T18\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="48" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T19\Graph.java">
+<error line="45" column="33" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="48" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T2\Graph.java">
+<error line="22" column="3" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T20\Graph.java">
+<error line="46" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T22\Graph.java">
+<error line="48" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T24\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="48" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T25\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T26\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T27\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="45" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T28\Graph.java">
+<error line="20" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T3\Graph.java">
+<error line="19" column="3" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T30\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T31\Graph.java">
+<error line="46" column="29" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="22" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="22" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="22" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="22" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="19" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="22" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="19" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="22" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="19" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="22" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="19" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="22" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T32\Graph.java">
+<error line="31" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T33\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T34\Graph.java">
+<error line="44" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="48" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T35\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T36\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="46" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T37\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T38\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T39\Graph.java">
+<error line="49" column="33" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="26" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T4\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="47" column="29" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="22" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="22" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="19" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="22" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="19" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="22" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="19" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="22" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="19" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="22" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T40\Graph.java">
+<error line="47" column="29" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="22" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="22" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="22" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="22" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="19" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="22" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T41\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T42\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T43\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T44\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T45\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T46\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T47\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="52" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T48\Graph.java">
+<error line="21" column="5" severity="warning" message="Method bfs length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T49\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="45" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="48" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="50" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T5\Graph.java">
+<error line="41" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="47" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="47" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="48" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="48" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="49" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T50\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T6\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T7\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T8\Graph.java">
+<error line="22" column="5" severity="warning" message="Method bfs length is 24 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="48" column="33" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="52" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="23" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="55" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="23" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="56" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\BreadthFirstSearch\T9\Graph.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T1\Knapsack.java">
+<error line="11" severity="warning" message="Line is longer than 120 characters (found 130)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T10\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T11\Knapsack.java">
+<error line="20" column="33" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="21" column="26" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="21" column="29" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="21" column="35" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="22" column="24" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T12\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T13\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T14\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T15\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T16\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T17\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T18\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T2\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T20\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T21\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T22\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T23\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T24\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T25\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T26\Knapsack.java">
+<error line="52" column="24" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="37" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="53" column="40" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="36" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="39" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="54" column="42" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T27\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T29\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T3\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T30\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T31\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T32\Knapsack.java">
+<error line="4" column="5" severity="warning" message="Method bottomUp length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T33\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T35\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T36\Knapsack.java">
+<error line="34" column="24" severity="warning" message="&apos;50&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="35" column="37" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="35" column="41" severity="warning" message="&apos;20&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="35" column="45" severity="warning" message="&apos;30&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" column="36" severity="warning" message="&apos;60&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" column="40" severity="warning" message="&apos;100&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="36" column="45" severity="warning" message="&apos;120&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T37\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T38\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T39\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T40\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T41\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T43\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T44\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T45\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T46\Knapsack.java">
+<error line="22" column="33" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="22" column="36" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="22" column="39" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="26" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="29" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="32" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="35" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="24" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T47\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T48\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T49\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T5\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T50\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T6\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T7\Knapsack.java">
+<error line="22" column="24" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="23" column="33" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="26" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="29" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="24" column="33" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T8\Knapsack.java">
+<error line="30" column="24" severity="warning" message="&apos;50&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="31" column="27" severity="warning" message="&apos;10&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="31" column="31" severity="warning" message="&apos;20&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="31" column="35" severity="warning" message="&apos;30&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="32" column="26" severity="warning" message="&apos;60&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="32" column="30" severity="warning" message="&apos;100&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="32" column="35" severity="warning" message="&apos;120&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\Knapsack\T9\Knapsack.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T1\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T10\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="46" column="26" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="32" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="35" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="41" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="44" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="47" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="50" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="53" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="56" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="59" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="71" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="74" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="77" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="80" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="83" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="86" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="89" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T11\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T12\MergeSort.java">
+<error line="45" column="27" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="42" severity="warning" message="&apos;-2&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="46" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="49" severity="warning" message="&apos;14&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="53" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T13\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T14\MergeSort.java">
+<error line="12" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="22" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="22" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="46" column="33" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="39" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="45" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="48" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="51" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="54" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="46" column="57" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T16\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T17\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T18\MergeSort.java">
+<error line="4" column="5" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="4" column="5" severity="warning" message="Method mergeSort length is 24 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T19\MergeSort.java">
+<error line="9" column="25" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="25" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T2\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T20\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T21\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T22\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T23\MergeSort.java">
+<error line="21" column="5" severity="warning" message="NCSS for this method is 26 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="21" column="5" severity="warning" message="Method merge length is 33 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T24\MergeSort.java">
+<error line="11" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="21" column="3" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="51" column="17" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="20" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="32" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="35" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="38" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="51" column="41" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T25\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T26\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T27\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T28\MergeSort.java">
+<error line="17" column="5" severity="warning" message="NCSS for this method is 26 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="17" column="5" severity="warning" message="Method merge length is 33 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="17" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T29\MergeSort.java">
+<error line="9" column="25" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="25" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T3\MergeSort.java">
+<error line="4" column="3" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="4" column="3" severity="warning" message="Method mergeSort length is 27 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T30\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T31\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T32\MergeSort.java">
+<error line="21" column="5" severity="warning" message="Method merge length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T33\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T34\MergeSort.java">
+<error line="20" column="5" severity="warning" message="Method merge length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T35\MergeSort.java">
+<error line="43" column="27" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="42" severity="warning" message="&apos;-2&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="46" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="49" severity="warning" message="&apos;14&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="43" column="53" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T36\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T37\MergeSort.java">
+<error line="39" column="27" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="39" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="39" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="39" column="42" severity="warning" message="&apos;-2&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="39" column="46" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="39" column="49" severity="warning" message="&apos;14&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="39" column="53" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T38\MergeSort.java">
+<error line="44" column="27" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="42" severity="warning" message="&apos;-2&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="46" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="49" severity="warning" message="&apos;14&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="53" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T39\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T4\MergeSort.java">
+<error line="21" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T40\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T41\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T42\MergeSort.java">
+<error line="9" column="17" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="17" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="38" column="26" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="32" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="35" severity="warning" message="&apos;9&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="38" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="41" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="44" severity="warning" message="&apos;8&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="38" column="47" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T43\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T44\MergeSort.java">
+<error line="11" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="21" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="21" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T45\MergeSort.java">
+<error line="45" column="27" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="42" severity="warning" message="&apos;-2&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="46" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="49" severity="warning" message="&apos;14&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="45" column="53" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T46\MergeSort.java">
+<error line="30" column="5" severity="warning" message="Method merge length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T47\MergeSort.java">
+<error line="44" column="27" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="33" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="36" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="42" severity="warning" message="&apos;-2&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="46" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="49" severity="warning" message="&apos;14&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="44" column="53" severity="warning" message="&apos;12&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T48\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T49\MergeSort.java">
+<error line="17" column="5" severity="warning" message="Method merge length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="17" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T5\MergeSort.java">
+<error line="17" column="16" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T50\MergeSort.java">
+<error line="9" column="18" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="18" column="5" severity="warning" message="Method merge length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+<error line="18" column="18" severity="warning" message="More than 3 parameters (found 5)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T6\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T7\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T8\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\MergeSort\T9\MergeSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T1\QuickSort.java">
+<error line="17" column="3" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="17" column="3" severity="warning" message="Method partition length is 28 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T10\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T11\QuickSort.java">
+<error line="19" column="17" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T12\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T13\QuickSort.java">
+<error line="12" column="5" severity="warning" message="Method quickSort length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T14\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T15\QuickSort.java">
+<error line="10" column="5" severity="warning" message="Method quickSort length is 26 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T16\QuickSort.java">
+<error line="17" column="5" severity="warning" message="Method quicksort length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T17\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T18\QuickSort.java">
+<error line="16" column="5" severity="warning" message="Method quickSort length is 22 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T19\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T20\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T21\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T22\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T23\QuickSort.java">
+<error line="10" column="5" severity="warning" message="Method quickSort length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T24\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T25\QuickSort.java">
+<error line="18" column="24" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T26\QuickSort.java">
+<error line="16" column="5" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="16" column="5" severity="warning" message="Method partition length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T27\QuickSort.java">
+<error line="21" column="15" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T28\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T29\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T30\QuickSort.java">
+<error line="19" column="17" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T31\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T32\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T33\QuickSort.java">
+<error line="22" column="5" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="22" column="5" severity="warning" message="Method partition length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T34\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T35\QuickSort.java">
+<error line="5" column="37" severity="warning" message="&apos;3&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="43" severity="warning" message="&apos;5&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="46" severity="warning" message="&apos;7&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="49" severity="warning" message="&apos;6&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="5" column="52" severity="warning" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="20" column="5" severity="warning" message="Method quickSort length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T36\QuickSort.java">
+<error line="16" column="5" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="16" column="5" severity="warning" message="Method partition length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T37\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T38\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T39\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T40\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T41\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T42\QuickSort.java">
+<error line="26" column="5" severity="warning" message="Method partition length is 23 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T43\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T44\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T45\QuickSort.java">
+<error line="16" column="3" severity="warning" message="NCSS for this method is 21 (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck"/>
+<error line="16" column="3" severity="warning" message="Method partition length is 25 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T46\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T47\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T48\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T49\QuickSort.java">
+<error line="20" column="5" severity="warning" message="Method partition length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T50\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T6\QuickSort.java">
+<error line="17" column="5" severity="warning" message="Method quicksort length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T7\QuickSort.java">
+<error line="17" column="5" severity="warning" message="Method quickSort length is 21 lines (max allowed is 20)." source="com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck"/>
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T8\QuickSort.java">
+</file>
+<file name="C:\Users\Oliwer\GitHub\ai-generated-code\app\src\main\java\Copilot\QuickSort\T9\QuickSort.java">
+<error line="18" column="17" severity="warning" message="More than 3 parameters (found 4)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+</file>
+</checkstyle>
