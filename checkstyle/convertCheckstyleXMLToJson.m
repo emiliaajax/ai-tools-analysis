@@ -55,24 +55,39 @@ for i = 0:fileNodes.getLength()-1
 end
 
 % Display the error counts for each AIModel and algorithm
-fprintf('Error Counts:\n');
-for AIModelKey = errorCounts.keys
-    AIModel = AIModelKey{1};
-    algorithms = errorCounts(AIModel);
-    fprintf('%s:\n', AIModel);
+%fprintf('Error Counts:\n');
+%for AIModelKey = errorCounts.keys
+%    AIModel = AIModelKey{1};
+%    algorithms = errorCounts(AIModel);
+%    fprintf('%s:\n', AIModel);
 
     
-    for algorithmKey = algorithms.keys
-        disp(algorithmKey{1});
+%    for algorithmKey = algorithms.keys
+%        disp(algorithmKey{1});
         
-        algorithm = algorithms(algorithmKey{1});
+%        algorithm = algorithms(algorithmKey{1});
         
-         for t = 1:length(algorithm)
+%         for t = 1:length(algorithm)
             
              % Retrieve the array for the current algorithm and Tx
-             currentAlgorithm = algorithm(t);
+ %            currentAlgorithm = algorithm(t);
              % Display the error count for this Tx
-             disp(currentAlgorithm);
-         end
-    end
-end
+ %            disp(currentAlgorithm);
+ %        end
+ %   end
+%end
+
+% Convert Map to json
+jsonStr = jsonencode(errorCounts, 'PrettyPrint', true);
+
+% Display JSON string
+% disp(jsonStr);
+
+% Open file for writing
+fid = fopen('./data/checkstyle/CheckstyleReport.json', 'w');
+
+% Write JSON string to file
+fprintf(fid, '%s', jsonStr);
+
+% Close file
+fclose(fid);
