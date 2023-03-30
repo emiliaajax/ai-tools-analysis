@@ -37,6 +37,11 @@ chatgpt_std = std(chatgpt_data);
 copilot_data = [bfs_copilot; binarysearch_copilot; bin2dec_copilot; 
     knapsack_copilot; mergesort_copilot; quicksort_copilot];
 
+[p, h, stats] = ranksum(chatgpt_data, copilot_data);
+if h == 1
+    disp('The two groups have significantly different distributions.');
+end
+
 % Calculate the mean, median, variance, and standard deviation for Copilot
 copilot_mean = mean(copilot_data);
 copilot_median = median(copilot_data);

@@ -21,6 +21,7 @@ quicksort_copilot = data.Copilot.QuickSort;
 chatgpt_data = [bfs_chatgpt; binarysearch_chatgpt; bin2dec_chatgpt; 
     knapsack_chatgpt; mergesort_chatgpt; quicksort_chatgpt];
 
+
 % Calculate the mean, median, variance, and standard deviation for ChatGPT
 chatgpt_mean = mean(chatgpt_data);
 chatgpt_median = median(chatgpt_data);
@@ -39,6 +40,26 @@ copilot_median = median(copilot_data);
 copilot_var = var(copilot_data);
 copilot_std = std(copilot_data);
 
+%If you want to test for differences between two groups of non-normally 
+% distributed data without using medians, you can consider using the 
+% Mann-Whitney U test, also known as the Wilcoxon rank-sum test.
+% The Mann-Whitney U test is a non-parametric test that compares the 
+% distribution of two independent groups of data. It tests the null 
+% hypothesis that the two groups have the same distribution, and the 
+% alternative hypothesis that one group has a higher (or lower) distribution
+% than the other. 
+% The ranksum function returns the p-value of the test, the test decision
+% (h), and the test statistics (stats). Note that the Mann-Whitney U test 
+% assumes that the two groups have the same shape of distribution but 
+% different location. If the two groups have different shapes of 
+% distribution, you may want to consider other non-parametric tests, 
+% such as the Kolmogorov-Smirnov test or the Anderson-Darling test, 
+% which test the hypothesis that the two groups come from the same 
+% distribution regardless of shape or location
+[p, h, stats] = ranksum(chatgpt_data, copilot_data);
+if h == 1
+    disp('The two groups have significantly different distributions.');
+end
 
 % DISPLAY MEANS
 % Create a bar graph
