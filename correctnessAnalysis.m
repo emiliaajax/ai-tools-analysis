@@ -23,6 +23,11 @@ quicksort_copilot = data.Copilot.QuickSort;
 chatgpt_data = [bfs_chatgpt; binarysearch_chatgpt; bin2dec_chatgpt; 
     knapsack_chatgpt; mergesort_chatgpt; quicksort_chatgpt];
 
+figure;
+plot(chatgpt_data);
+ylabel('Number of errors');
+title('Test errors for ChatGPT');
+
 % Calculate the mean, median, variance, and standard deviation for ChatGPT
 chatgpt_mean = mean(chatgpt_data);
 chatgpt_median = median(chatgpt_data);
@@ -36,6 +41,11 @@ chatgpt_std = std(chatgpt_data);
 
 copilot_data = [bfs_copilot; binarysearch_copilot; bin2dec_copilot; 
     knapsack_copilot; mergesort_copilot; quicksort_copilot];
+
+figure;
+plot(copilot_data);
+ylabel('Number of errors');
+title('Test errors for Copilot');
 
 [p, h, stats] = ranksum(chatgpt_data, copilot_data);
 if h == 1

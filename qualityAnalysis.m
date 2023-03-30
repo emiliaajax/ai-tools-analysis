@@ -21,6 +21,18 @@ quicksort_copilot = data.Copilot.QuickSort;
 chatgpt_data = [bfs_chatgpt; binarysearch_chatgpt; bin2dec_chatgpt; 
     knapsack_chatgpt; mergesort_chatgpt; quicksort_chatgpt];
 
+figure;
+plot(chatgpt_data);
+ylabel('Number of errors');
+title('Quality errors for ChatGPT');
+
+% % Test for normality. Kolmogorov-Smirnov (KS) test.
+% [h, p, k] = kstest(chatgpt_data); % perform KS test
+% if h == 0
+%     disp('ChatGPT data is normally distributed');
+% else
+%     disp('ChatGPT data is not normally distributed');
+% end
 
 % Calculate the mean, median, variance, and standard deviation for ChatGPT
 chatgpt_mean = mean(chatgpt_data);
@@ -34,11 +46,24 @@ chatgpt_std = std(chatgpt_data);
 copilot_data = [bfs_copilot; binarysearch_copilot; bin2dec_copilot; 
     knapsack_copilot; mergesort_copilot; quicksort_copilot];
 
+figure;
+plot(copilot_data);
+ylabel('Number of errors');
+title('Quality errors for Copilot');
+
 % Calculate the mean, median, variance, and standard deviation for Copilot
 copilot_mean = mean(copilot_data);
 copilot_median = median(copilot_data);
 copilot_var = var(copilot_data);
 copilot_std = std(copilot_data);
+
+% % Test for normality. Kolmogorov-Smirnov (KS) test.
+% [h, p, k] = kstest(copilot_data); % perform KS test
+% if h == 0
+%     disp('Copilot data is normally distributed');
+% else
+%     disp('Copilot data is not normally distributed');
+% end
 
 %If you want to test for differences between two groups of non-normally 
 % distributed data without using medians, you can consider using the 
